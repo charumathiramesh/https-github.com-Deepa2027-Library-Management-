@@ -70,6 +70,4 @@ Thus the Library management system project was executed and the output was verif
 
 
 
-UML Diagrams:
 
-USECASE DIAGRAM:
